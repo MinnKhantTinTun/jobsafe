@@ -1,0 +1,6 @@
+{
+  "name": "JOBSAFE - Micro-Job Trust & Escrow",
+  "description": "Vietnam micro-job trust and escrow platform featuring secure milestone checklist verification, automated 4% platform fee mathematics, admin dispute resolution, and worker protection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
